@@ -2,8 +2,8 @@ exports.capabilities = {
     "browserName": "Chrome",
     "browserVersion": "126",
     "LT:Options": {
-        "username": "appan12345",
-        "accessKey": "Lks6aRdqge8dtv9b7JAf2xdHDixH9qwUu2xhMtgOQYTKAbuaru",
+        "username": "appansingharoy",
+        "accessKey": "vjumvvdGNFfRTw6CuwlZjurWY1blUtIi8LvOug1gKCaXQPImaY",
         "visual": true,
         "platformName": "Windows 11",
         "network": true,
